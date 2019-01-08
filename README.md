@@ -1,1 +1,1 @@
-# Connect4_GUI
+# Connect4gui
